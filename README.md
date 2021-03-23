@@ -7,3 +7,12 @@
 # Update for system
 `apt-get update`
 `apt-get install vim`
+
+
+# Compile
+`gcc [source-code]`  
+`gcc -o [outputfile.name] [source-code]`
+
+# Excution
+`./[a.out]`  
+`./[outputfile.name]`
